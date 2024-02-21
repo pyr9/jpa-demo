@@ -1,5 +1,0 @@
-org/pyr/repositories/CustomerRepository.class
-org/pyr/entity/Customer.class
-org/pyr/Main.class
-org/pyr/config/JPAConfig.class
-org/pyr/entity/QCustomer.class
